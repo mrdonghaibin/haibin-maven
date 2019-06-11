@@ -13,7 +13,7 @@ public class TestAction {
 	  
     @RequestMapping("/hello")
     public String sayHello() {
-        return "hello zhangsan V0.2 Vhaibin";
+        return "hello zhangsan V0.2 Vhaibin2";
     	
     }
     
