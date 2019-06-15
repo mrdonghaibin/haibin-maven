@@ -14,10 +14,10 @@ public class TestAction {
     @RequestMapping("/hello")
     public String sayHello() {
 
-        return "hello zhangsan V0.2 VMaster6 999 Merge haibin SSHcommit gitHub 1";
+
+        return "hello zhangsan V0.2 VMaster6 999 Merge haibin SSHcommit gitHub 54";
 
 
-    	
     }
     
     
