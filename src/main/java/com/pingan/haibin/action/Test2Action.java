@@ -24,12 +24,13 @@ public class Test2Action {
 	  
     @RequestMapping("/hello")
     public String sayHello() {
-        return "hello Jenkins tttyyy";
+        return "hello Jenkins tttyyy233333jf";
     }
-    
+
     
     @RequestMapping("/404.do")
     public Object error_404() {
+
         return "你要找的页面，被lison偷吃了！";
     }
     
