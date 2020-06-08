@@ -24,13 +24,9 @@ public class Test2Action {
 	  
     @RequestMapping("/hello")
     public String sayHello() {
-        return "hello Jenkins tttyU3383jfVersionH1y";
+        return "hello Jenkins tttyU3383jfVersionH1";
     }
 
-    @RequestMapping("/hello2")
-    public String sayHello2() {
-        return "hello Jenkins tttyU3GGGeGGGGGk";
-    }
     
     @RequestMapping("/404.do")
     public Object error_404() {
