@@ -12,7 +12,7 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		
-		String data = "59399.5";
+		String data = "59399.6";
 		
 		 //判断data是否为数值型
         boolean isNum = data.toString().matches("^(-?\\d+)(\\.\\d+)?$");

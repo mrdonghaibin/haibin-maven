@@ -21,7 +21,7 @@ public class ShortUrlGenerator {
     public static String[] shortUrl(String url)  
     {  
         // 可以自定义生成 MD5 加密字符传前的混合 KEY  
-        String key = "mengdelong";  
+        String key = "mengdelong66";  
         // 要使用生成 URL 的字符  
         String[] chars = new String[] { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p",  
                 "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9",  
