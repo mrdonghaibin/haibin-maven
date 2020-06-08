@@ -23,7 +23,7 @@ public class Test {
         System.out.println("1166MastertttV201920 ty jdd isNum:"+isNum+",isInteger:"+isInteger);
         
         
-        String [] str = {"beijing","tianjin","hsaibin"};
+        String [] str = {"beijing","tianjin","beijing"};
         List list = Arrays.asList(str);
         System.out.println(list);
         System.out.println("beijing:"+list.contains("beijing2"));

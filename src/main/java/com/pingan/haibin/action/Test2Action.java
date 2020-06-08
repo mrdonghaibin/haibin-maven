@@ -24,7 +24,7 @@ public class Test2Action {
 	  
     @RequestMapping("/hello")
     public String sayHello() {
-        return "hello Jenkins tttyyy2333388888888s3jf";
+        return "hello Jenkins tttyyy2333383jfVersion2";
     }
 
     
