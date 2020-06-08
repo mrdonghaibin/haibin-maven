@@ -1,0 +1,431 @@
+2020-02-19 00:25:38.718 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 21880 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 00:25:38.733 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 00:25:39.328 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 00:25:39.912 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 00:25:39.923 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:25:39.938 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 00:25:39.938 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 00:25:39.954 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 00:25:39.954 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 00:25:39.954 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 00:25:39.954 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 00:25:39.954 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 00:25:40.166 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 00:25:40.167 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1387 ms
+2020-02-19 00:25:40.405 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:25:40.944 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:25:40.988 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 00:25:40.988 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.931 seconds (JVM running for 4.457)
+2020-02-19 00:25:55.050 INFO [http-nio-8081-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 00:25:55.051 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 00:25:55.061 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 8 ms
+2020-02-19 00:27:09.959 INFO [RMI TCP Connection(9)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 00:27:09.970 INFO [RMI TCP Connection(9)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:27:15.683 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 6388 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 00:27:15.683 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 00:27:16.308 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 00:27:16.951 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 00:27:16.957 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:27:16.973 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 00:27:16.973 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 00:27:16.988 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 00:27:16.988 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 00:27:16.988 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 00:27:16.988 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 00:27:16.988 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 00:27:17.186 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 00:27:17.186 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1456 ms
+2020-02-19 00:27:17.436 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:27:17.972 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:27:18.020 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 00:27:18.020 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.864 seconds (JVM running for 4.244)
+2020-02-19 00:27:35.676 INFO [http-nio-8081-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 00:27:35.678 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 00:27:35.690 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 12 ms
+2020-02-19 00:33:06.233 INFO [RMI TCP Connection(12)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 00:33:06.242 INFO [RMI TCP Connection(12)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:33:12.051 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 21476 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 00:33:12.051 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 00:33:12.688 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 00:33:13.266 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 00:33:13.281 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:33:13.296 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 00:33:13.296 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 00:33:13.312 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 00:33:13.312 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 00:33:13.312 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 00:33:13.312 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 00:33:13.312 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 00:33:13.515 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 00:33:13.515 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1401 ms
+2020-02-19 00:33:13.765 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:33:14.213 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:33:14.338 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 00:33:14.343 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.894 seconds (JVM running for 4.29)
+2020-02-19 00:33:29.054 INFO [http-nio-8081-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 00:33:29.054 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 00:33:29.063 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 9 ms
+2020-02-19 00:34:34.062 INFO [RMI TCP Connection(9)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 00:34:34.078 INFO [RMI TCP Connection(9)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:34:40.073 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 23376 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 00:34:40.088 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 00:34:40.713 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 00:34:41.307 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 00:34:41.311 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:34:41.327 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 00:34:41.327 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 00:34:41.342 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 00:34:41.342 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 00:34:41.342 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 00:34:41.342 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 00:34:41.342 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 00:34:41.545 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 00:34:41.545 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1410 ms
+2020-02-19 00:34:41.795 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:34:42.249 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:34:42.389 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 00:34:42.399 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.836 seconds (JVM running for 4.276)
+2020-02-19 00:34:48.690 INFO [http-nio-8081-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 00:34:48.690 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 00:34:48.702 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 11 ms
+2020-02-19 00:36:07.025 INFO [RMI TCP Connection(8)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 00:36:07.030 INFO [RMI TCP Connection(8)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:36:13.039 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 13504 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 00:36:13.043 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 00:36:13.709 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 00:36:14.329 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 00:36:14.346 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:36:14.359 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 00:36:14.360 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 00:36:14.368 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 00:36:14.369 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 00:36:14.369 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 00:36:14.369 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 00:36:14.374 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 00:36:14.582 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 00:36:14.583 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1492 ms
+2020-02-19 00:36:14.836 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:36:15.404 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:36:15.441 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 00:36:15.446 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.952 seconds (JVM running for 4.565)
+2020-02-19 00:36:28.746 INFO [http-nio-8081-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 00:36:28.746 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 00:36:28.758 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 11 ms
+2020-02-19 00:37:49.956 INFO [RMI TCP Connection(8)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 00:37:49.962 INFO [RMI TCP Connection(8)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:37:55.610 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 15456 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 00:37:55.614 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 00:37:56.285 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 00:37:56.914 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 00:37:56.931 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:37:56.943 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 00:37:56.943 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 00:37:56.951 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 00:37:56.951 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 00:37:56.952 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 00:37:56.952 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 00:37:56.957 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 00:37:57.163 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 00:37:57.163 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1496 ms
+2020-02-19 00:37:57.410 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:37:57.879 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:37:58.019 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 00:37:58.024 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.982 seconds (JVM running for 4.423)
+2020-02-19 00:38:05.075 INFO [http-nio-8081-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 00:38:05.075 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 00:38:05.085 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 9 ms
+2020-02-19 00:43:43.259 INFO [RMI TCP Connection(12)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 00:43:43.263 INFO [RMI TCP Connection(12)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:43:49.153 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 16624 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 00:43:49.159 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 00:43:49.813 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 00:43:50.422 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 00:43:50.438 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:43:50.449 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 00:43:50.450 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 00:43:50.457 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 00:43:50.458 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 00:43:50.459 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 00:43:50.459 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 00:43:50.464 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 00:43:50.679 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 00:43:50.680 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1475 ms
+2020-02-19 00:43:50.937 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:43:51.491 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:43:51.532 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 00:43:51.536 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.943 seconds (JVM running for 4.527)
+2020-02-19 00:44:18.887 INFO [http-nio-8081-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 00:44:18.888 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 00:44:18.899 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 11 ms
+2020-02-19 00:49:28.115 INFO [RMI TCP Connection(13)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 00:49:28.132 INFO [RMI TCP Connection(13)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:49:34.477 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 2200 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 00:49:34.477 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 00:49:35.444 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 00:49:35.580 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 22708 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 00:49:35.580 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 00:49:36.422 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 00:49:36.438 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:49:36.456 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 00:49:36.456 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 00:49:36.456 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 00:49:36.471 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 00:49:36.471 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 00:49:36.471 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 00:49:36.471 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 00:49:36.471 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 00:49:36.737 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 00:49:36.737 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 2197 ms
+2020-02-19 00:49:37.049 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:49:37.246 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 00:49:37.261 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:49:37.277 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 00:49:37.277 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 00:49:37.292 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 00:49:37.292 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 00:49:37.292 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 00:49:37.292 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 00:49:37.292 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 00:49:37.605 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 00:49:37.607 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1965 ms
+2020-02-19 00:49:37.672 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:49:37.839 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 00:49:37.844 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 4.047 seconds (JVM running for 5.892)
+2020-02-19 00:49:37.953 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:49:38.468 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:49:38.619 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Pausing ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:49:38.619 INFO [main]org.apache.catalina.core.StandardService.log:173 -Stopping service [Tomcat]
+2020-02-19 00:49:38.635 INFO [main]org.apache.catalina.util.LifecycleBase.log:173 -The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2020-02-19 00:49:38.651 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Stopping ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:49:38.651 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Destroying ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:49:38.651 INFO [main]o.s.b.a.logging.ConditionEvaluationReportLoggingListener.logMessage:142 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-02-19 00:49:38.666 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:49:57.280 INFO [RMI TCP Connection(6)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 00:49:57.289 INFO [RMI TCP Connection(6)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:50:06.638 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 21916 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 00:50:06.638 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 00:50:07.265 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 00:50:07.859 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 00:50:07.867 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:50:07.883 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 00:50:07.883 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 00:50:07.898 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 00:50:07.898 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 00:50:07.898 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 00:50:07.898 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 00:50:07.898 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 00:50:08.101 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 00:50:08.101 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1416 ms
+2020-02-19 00:50:08.329 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:50:08.925 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:50:08.999 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 00:50:08.999 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.89 seconds (JVM running for 4.678)
+2020-02-19 00:50:27.421 INFO [RMI TCP Connection(2)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 00:50:27.428 INFO [RMI TCP Connection(2)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:50:33.266 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 15252 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 00:50:33.266 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 00:50:33.891 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 00:50:34.485 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 00:50:34.492 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:50:34.508 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 00:50:34.508 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 00:50:34.523 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 00:50:34.523 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 00:50:34.523 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 00:50:34.523 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 00:50:34.523 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 00:50:34.726 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 00:50:34.726 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1413 ms
+2020-02-19 00:50:34.976 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:50:35.421 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:50:35.561 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 00:50:35.574 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.886 seconds (JVM running for 4.302)
+2020-02-19 00:51:01.166 INFO [http-nio-8081-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 00:51:01.166 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 00:51:01.176 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 9 ms
+2020-02-19 00:53:50.429 INFO [RMI TCP Connection(12)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 00:53:50.434 INFO [RMI TCP Connection(12)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:53:56.287 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 21224 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 00:53:56.293 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 00:53:56.966 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 00:53:57.584 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 00:53:57.600 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:53:57.613 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 00:53:57.614 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 00:53:57.622 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 00:53:57.622 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 00:53:57.623 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 00:53:57.623 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 00:53:57.628 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 00:53:57.849 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 00:53:57.850 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1498 ms
+2020-02-19 00:53:58.142 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 00:53:58.904 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 00:53:59.009 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 00:53:59.016 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 3.263 seconds (JVM running for 4.86)
+2020-02-19 00:54:04.929 INFO [http-nio-8081-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 00:54:04.930 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 00:54:04.939 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 9 ms
+2020-02-19 01:10:49.121 INFO [RMI TCP Connection(24)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 01:10:49.129 INFO [RMI TCP Connection(24)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 01:10:54.998 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 22620 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 01:10:54.998 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 01:10:55.624 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 01:10:56.219 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 01:10:56.233 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 01:10:56.249 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 01:10:56.249 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 01:10:56.264 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 01:10:56.264 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 01:10:56.264 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 01:10:56.264 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 01:10:56.264 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 01:10:56.468 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 01:10:56.468 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1423 ms
+2020-02-19 01:10:56.717 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 01:10:57.166 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 01:10:57.307 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 01:10:57.317 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.848 seconds (JVM running for 4.413)
+2020-02-19 01:11:03.620 INFO [http-nio-8081-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 01:11:03.621 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 01:11:03.630 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 9 ms
+2020-02-19 01:13:40.983 INFO [RMI TCP Connection(10)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 01:13:40.995 INFO [RMI TCP Connection(10)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 01:13:46.785 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 13004 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 01:13:46.785 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 01:13:47.422 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 01:13:48.000 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 01:13:48.015 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 01:13:48.031 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 01:13:48.031 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 01:13:48.046 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 01:13:48.046 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 01:13:48.046 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 01:13:48.046 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 01:13:48.046 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 01:13:48.250 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 01:13:48.250 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1418 ms
+2020-02-19 01:13:48.500 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 01:13:49.078 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 01:13:49.150 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 01:13:49.158 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.924 seconds (JVM running for 4.318)
+2020-02-19 01:14:12.313 INFO [http-nio-8081-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 01:14:12.313 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 01:14:12.322 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 8 ms
+2020-02-19 01:16:58.671 INFO [RMI TCP Connection(9)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 01:16:58.677 INFO [RMI TCP Connection(9)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 01:17:04.694 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 21720 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 01:17:04.694 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 01:17:05.327 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 01:17:05.909 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 01:17:05.935 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 01:17:05.950 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 01:17:05.950 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 01:17:05.950 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 01:17:05.950 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 01:17:05.950 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 01:17:05.950 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 01:17:05.950 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 01:17:06.172 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 01:17:06.172 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1431 ms
+2020-02-19 01:17:06.406 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 01:17:06.949 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 01:17:07.006 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 01:17:07.006 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.819 seconds (JVM running for 4.454)
+2020-02-19 01:22:09.151 INFO [http-nio-8081-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 01:22:09.152 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 01:22:09.164 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 12 ms
+2020-02-19 01:30:03.906 INFO [RMI TCP Connection(21)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 01:30:03.923 INFO [RMI TCP Connection(21)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 01:30:10.132 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 14208 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 01:30:10.132 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 01:30:10.861 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 01:30:11.610 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 01:30:11.617 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 01:30:11.632 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 01:30:11.632 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 01:30:11.648 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 01:30:11.648 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 01:30:11.648 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 01:30:11.648 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 01:30:11.648 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 01:30:11.895 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 01:30:11.895 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1705 ms
+2020-02-19 01:30:12.172 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 01:30:12.681 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 01:30:12.858 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 01:30:12.862 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 3.345 seconds (JVM running for 5.068)
+2020-02-19 01:31:11.112 INFO [http-nio-8081-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 01:31:11.112 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 01:31:11.123 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 11 ms
+2020-02-19 08:56:39.672 INFO [RMI TCP Connection(43)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 08:56:39.680 INFO [RMI TCP Connection(43)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:42:14.312 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 21088 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 11:42:14.312 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 11:42:14.906 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 11:42:15.479 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 11:42:15.510 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 11:42:15.526 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 11:42:15.526 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 11:42:15.541 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 11:42:15.541 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 11:42:15.541 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 11:42:15.541 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 11:42:15.541 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 11:42:15.744 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 11:42:15.744 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1330 ms
+2020-02-19 11:42:15.994 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:42:16.533 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 11:42:16.578 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 11:42:16.594 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 4.096 seconds (JVM running for 5.866)
+2020-02-19 11:42:40.950 INFO [http-nio-8081-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 11:42:40.951 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 11:42:40.960 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 9 ms
+2020-02-19 11:45:00.062 INFO [RMI TCP Connection(10)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 11:45:00.071 INFO [RMI TCP Connection(10)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:45:05.945 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 23544 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 11:45:05.945 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 11:45:06.588 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 11:45:07.166 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 11:45:07.183 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 11:45:07.199 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 11:45:07.199 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 11:45:07.215 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 11:45:07.215 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 11:45:07.215 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 11:45:07.215 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 11:45:07.215 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 11:45:07.418 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 11:45:07.418 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1426 ms
+2020-02-19 11:45:07.683 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:45:08.251 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 11:45:08.289 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 11:45:08.304 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.887 seconds (JVM running for 4.354)
+2020-02-19 11:45:16.236 INFO [http-nio-8081-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 11:45:16.236 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 11:45:16.246 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 10 ms
+2020-02-19 11:49:02.047 INFO [RMI TCP Connection(11)-127.0.0.1]o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown:163 -Application shutdown requested.
+2020-02-19 11:49:02.055 INFO [RMI TCP Connection(11)-127.0.0.1]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:49:08.101 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarting:50 -Starting HaibinMavenApplication on LAPTOP-KL9P0UP3 with PID 18984 (E:\sts\haibin-maven\target\classes started by LENOVO in E:\sts\haibin-maven)
+2020-02-19 11:49:08.101 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStartupProfileInfo:679 -The following profiles are active: stg
+2020-02-19 11:49:08.760 WARN [main]org.mybatis.spring.mapper.ClassPathMapperScanner.doScan:166 -No MyBatis mapper was found in '[com.pingan.haibin]' package. Please check your configuration.
+2020-02-19 11:49:09.354 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2020-02-19 11:49:09.364 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2020-02-19 11:49:09.380 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-02-19 11:49:09.380 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2020-02-19 11:49:09.395 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -An older version [1.2.19] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21]
+2020-02-19 11:49:09.395 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -Loaded APR based Apache Tomcat Native library [1.2.19] using APR version [1.6.5].
+2020-02-19 11:49:09.395 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-02-19 11:49:09.395 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-02-19 11:49:09.395 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+2020-02-19 11:49:09.594 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-02-19 11:49:09.594 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1446 ms
+2020-02-19 11:49:09.844 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 11:49:10.292 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2020-02-19 11:49:10.432 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2020-02-19 11:49:10.441 INFO [main]com.pingan.haibin.HaibinMavenApplication.logStarted:59 -Started HaibinMavenApplication in 2.948 seconds (JVM running for 4.409)
+2020-02-19 11:49:19.915 INFO [http-nio-8081-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-19 11:49:19.915 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-02-19 11:49:19.925 INFO [http-nio-8081-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 9 ms
