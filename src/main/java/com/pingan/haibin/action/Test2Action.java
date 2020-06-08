@@ -29,7 +29,7 @@ public class Test2Action {
 
     @RequestMapping("/hello2")
     public String sayHello2() {
-        return "hello Jenkins tttyU3383jfVersionGG";
+        return "hello Jenkins tttyU3383jfVersionGGe";
     }
     
     @RequestMapping("/404.do")
