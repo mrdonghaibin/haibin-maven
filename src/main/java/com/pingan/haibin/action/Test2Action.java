@@ -24,12 +24,12 @@ public class Test2Action {
 	  
     @RequestMapping("/hello")
     public String sayHello() {
-        return "hello Jenkins tttyU3383jfVersionH1";
+        return "hello Jenkins tttyU3383jfVersionH12";
     }
 
     @RequestMapping("/hello2")
     public String sayHello2() {
-        return "hello Jenkins tttyU3GGGeGGGGG";
+        return "hello Jenkins tttyU3GGGeGGGGG95";
     }
     
     @RequestMapping("/404.do")
