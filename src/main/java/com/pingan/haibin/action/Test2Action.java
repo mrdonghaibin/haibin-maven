@@ -24,10 +24,14 @@ public class Test2Action {
 	  
     @RequestMapping("/hello")
     public String sayHello() {
-        return "hello Jenkins tttyU3383jfVersionH3";
+        return "hello Jenkins tttyU3383jfVersionH17";
     }
 
-    
+    @RequestMapping("/hello2")
+    public String sayHello2() {
+        return "hello Jenkins tttyU3383jfVersionH19";
+    }
+
     @RequestMapping("/404.do")
     public Object error_404() {
 
