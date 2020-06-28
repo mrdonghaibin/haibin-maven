@@ -34,7 +34,7 @@ public class Test2Action {
 
     @RequestMapping("/404.do")
     public Object error_404() {
-
+        System.out.println("djjjj55");
         return "你要找的页面，被lison偷吃了！";
     }
     
