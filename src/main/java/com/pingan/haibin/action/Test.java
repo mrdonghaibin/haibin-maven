@@ -29,7 +29,7 @@ public class Test {
         System.out.println("beijing:"+list.contains("beijing2"));
         if(list.contains("beijing")) {
             System.out.println("djj77j6669j");
-            System.out.println("djj77jj");
+            System.out.println("djj77jj0");
         }
 	}
 
