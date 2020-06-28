@@ -20,7 +20,7 @@ public class Test {
         boolean isInteger=data.toString().matches("^[-\\+]?[\\d]*$");
 
 
-        System.out.println("1166MastertttV201920 ty jdd isNum:"+isNum+",isInteger22:"+isInteger);
+        System.out.println("1166MastertttV201920 ty jdd isNum:"+isNum+",isInteger2252:"+isInteger);
         
         
         String [] str = {"beijing","tianjin","beijing"};
